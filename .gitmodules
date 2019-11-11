@@ -1,0 +1,3 @@
+[submodule "wp-content/plugins/openid-connect-generic"]
+	path = wp-content/plugins/openid-connect-generic
+	url = https://github.com/daggerhart/openid-connect-generic.git
